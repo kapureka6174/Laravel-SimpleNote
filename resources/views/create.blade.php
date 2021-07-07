@@ -2,7 +2,6 @@
 
 @section('content')
 <div class="row justify-content-center ml-0 mr-0 h-100">
-    {{ $user['name'] }}
     <div class="card w-100">
         <div class="card-header">新規メモ作成</div>
         <div class="card-body">
